@@ -5,19 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7e7d36b-cc28-481f-ae3f-610a611ad170" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/yellow_tripdata_2024-12.parquet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/TaxiApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-01.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-02.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-03.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-04.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-05.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-06.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-07.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-08.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-09.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-10.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-11.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2022-12.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-01.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-02.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-03.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-04.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-05.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-06.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-07.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-08.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-09.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-10.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-11.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/yellow_tripdata_2023-12.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TaxiApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/TaxiApp.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +106,31 @@
       <option name="presentableId" value="Default" />
       <updated>1740739689410</updated>
     </task>
+    <task id="LOCAL−00001" summary="start">
+      <created>1741100294867</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1741100294867</updated>
+    </task>
+    <task id="LOCAL−00002" summary="start">
+      <created>1741100476813</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1741100476813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
